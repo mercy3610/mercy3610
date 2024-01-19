@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mercy Kirui</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate web developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif"
 
 <p align="left"> <a href="https://twitter.com/@mercykirui" target="blank"><img src="https://img.shields.io/twitter/follow/@mercykirui?logo=twitter&style=for-the-badge" alt="@mercykirui" /></a> </p>
